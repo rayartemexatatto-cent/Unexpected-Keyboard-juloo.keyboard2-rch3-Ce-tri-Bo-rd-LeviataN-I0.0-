@@ -1,4 +1,4 @@
-# Unexpected Keyboard [<img src="https://hosted.weblate.org/widget/unexpected-keyboard/svg-badge.svg" alt="État de la traduction" />](https://hosted.weblate.org/engage/unexpected-keyboard/)
+# Unexpected Keyboard [<img src="https://hosted.weblate.org/widget/unexpected-keyboard/svg-badge.svg" alt="État de la traduction" />](https://hosted.weblate.org/engage/unexpected-keyboard/)(versión 2.0.4 juloo.keyboard2)
 
 ---
 
@@ -11,6 +11,7 @@ See [keepandroidopen.org](https://keepandroidopen.org/) and the [F-Droid blog](h
 [<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png"
      alt="Get it on F-Droid"
      height="80">](https://f-droid.org/packages/juloo.keyboard2/)
+     
 [<img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png"
      alt="Get it on Google Play"
      height="80">](https://play.google.com/store/apps/details?id=juloo.keyboard2)
@@ -31,18 +32,3 @@ Usage: to apply the symbols located in the corners of each key, slide your finge
 | <img src="/fastlane/metadata/android/en-US/images/phoneScreenshots/1.png" alt="Screenshot-1" /> | <img src="/fastlane/metadata/android/en-US/images/phoneScreenshots/2.png" alt="Screenshot-2"/> | <img src="/fastlane/metadata/android/en-US/images/phoneScreenshots/3.png" alt="Screenshot-3"/> |
 | --- | --- | --- |
 | <img src="/fastlane/metadata/android/en-US/images/phoneScreenshots/4.png" alt="Screenshot-4" /> | <img src="/fastlane/metadata/android/en-US/images/phoneScreenshots/5.png" alt="Screenshot-5" /> | <img src="/fastlane/metadata/android/en-US/images/phoneScreenshots/6.png" alt="Screenshot-6" /> |
-
-## Help translate the application
-
-Improve the application translations [using Weblate](https://hosted.weblate.org/engage/unexpected-keyboard/).
-
-[<img src="https://hosted.weblate.org/widget/unexpected-keyboard/multi-auto.svg" alt="État de la traduction" />](https://hosted.weblate.org/engage/unexpected-keyboard/)
-
-## Contributing
-
-For instructions on building the application, see
-[Contributing](CONTRIBUTING.md).
-
-## Acknowledgement
-
-The [NLnet foundation](https://nlnet.nl/) funded the work on the spell checking feature.
