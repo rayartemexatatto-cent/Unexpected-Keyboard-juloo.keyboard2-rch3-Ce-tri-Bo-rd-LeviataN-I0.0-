@@ -1,24 +1,10 @@
-# Unexpected Keyboard [<img src="https://hosted.weblate.org/widget/unexpected-keyboard/svg-badge.svg" alt="État de la traduction" />](https://hosted.weblate.org/engage/unexpected-keyboard/)(versión 2.0.4 juloo.keyboard2)
+Para Utilidad del 🐲-~Proyecto-Ψ-Leviatán~-🐉 
 
----
-
-⚠️ Google wants to kill the open-source Android community.
-
-See [keepandroidopen.org](https://keepandroidopen.org/) and the [F-Droid blog](https://f-droid.org/en/2025/09/29/google-developer-registration-decree.html).
-
----
-
-[<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png"
-     alt="Get it on F-Droid"
-     height="80">](https://f-droid.org/packages/juloo.keyboard2/)(versión 2.0.4 juloo.keyboard2).
-     
-[<img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png"
-     alt="Get it on Google Play"
-     height="80">](https://play.google.com/store/apps/details?id=juloo.keyboard2oversión 2.0.4 juloo.keyboard2).
+en [https://github.com/rayartemexatatto-cent/Unexpected-Keyboard-juloo.keyboard2-rch3-Ce-tri-Bo-rd-LeviataN-I0.0-/blob/master/README.md](versión 2.0.4[#]juloo.keyboard2)
 
 Lightweight and privacy-conscious virtual keyboard for Android.
 
-https://github.com/Julow/Unexpected-Keyboard/assets/2310568/28f8f6fe-ac13-46f3-8c5e-d62443e16d0d
+https://github.com/rayartemexatatto-cent/Unexpected-Keyboard-juloo.keyboard2-rch3-Ce-tri-Bo-rd-LeviataN-I0.0-/blob/master/README.md
 
 The main feature is that you can type more characters by swiping the keys towards the corners.
 
