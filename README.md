@@ -10,11 +10,11 @@ See [keepandroidopen.org](https://keepandroidopen.org/) and the [F-Droid blog](h
 
 [<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png"
      alt="Get it on F-Droid"
-     height="80">](https://f-droid.org/packages/juloo.keyboard2/)
+     height="80">](https://f-droid.org/packages/juloo.keyboard2/)(versión 2.0.4 juloo.keyboard2).
      
 [<img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png"
      alt="Get it on Google Play"
-     height="80">](https://play.google.com/store/apps/details?id=juloo.keyboard2)
+     height="80">](https://play.google.com/store/apps/details?id=juloo.keyboard2oversión 2.0.4 juloo.keyboard2).
 
 Lightweight and privacy-conscious virtual keyboard for Android.
 
