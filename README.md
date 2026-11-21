@@ -1,4 +1,4 @@
-Para Utilidad del 🐲-~Proyecto-Ψ-Leviatán~-🐉 
+Como Herramienta de escrirura en el ^\/Centrix\/^ para 🦏Αrch3-Ceηtriχ⊷BoΑrd-LeviataNΨI0.0🐉
 
 en [https://github.com/rayartemexatatto-cent/Unexpected-Keyboard-juloo.keyboard2-rch3-Ce-tri-Bo-rd-LeviataN-I0.0-/blob/master/README.md](versión 2.0.4[#]juloo.keyboard2)
 
